@@ -39,9 +39,9 @@ def rate_limit_check():
     requests_made += 1
 
 # API Credentials
-apiKey = 'a4f8faaf-bd98-4b5c-9372-bb2ec3f5df57'
-secretKey = '39lewa84tv'
-redirect_uri = 'https://127.0.0.1:5000/'
+apiKey = 
+secretKey = 
+redirect_uri = #Create Upstox 
 
 # Encode the redirect URI
 encoded_redirect_uri = urllib.parse.quote(redirect_uri, safe="")
