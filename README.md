@@ -40,7 +40,7 @@ Select the appropriate choice that suits your risk profile
 
 - **Nifty Indices Wise**: Analyze range-bound stocks based on selected Nifty indices. This feature allows users to focus on specific market segments, such as Nifty Bank, Nifty IT, or other sectoral indices. By filtering stocks within these indices, users can identify potential trading opportunities tailored to specific sectors of interest.
 
-[!Range-Bound-Stocks-Opportunities-Tracker]()
+[!Range-Bound-Stocks-Opportunities-Tracker](img2.jpg)
 
 - **Nifty 500**: This feature enables users to analyze the performance of stocks listed in the Nifty 500 index, which comprises the top 500 companies in India based on free float market capitalization. By assessing these stocks, users can identify those that are exhibiting range-bound behavior, assisting in strategic investment decisions within a broad market context.
 
