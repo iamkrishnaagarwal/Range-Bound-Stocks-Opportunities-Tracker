@@ -29,7 +29,7 @@ The **AI-Powered Range Bound Stocks Finder** is a web application built using St
 ## Usage
 
 Run the Streamlit app:
-```bash
+
 streamlit run app.py
 
 Open your browser and go to http://localhost:8501.
