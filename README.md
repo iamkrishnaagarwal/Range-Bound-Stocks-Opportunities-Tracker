@@ -33,6 +33,23 @@ Run the Streamlit app:
 streamlit run app.py
 
 Open your browser and go to http://localhost:8501.
+
+Select the appropriate choice that suits your risk profile 
+
+## Features
+
+- **Nifty Indices Wise**: Analyze range-bound stocks based on selected Nifty indices. This feature allows users to focus on specific market segments, such as Nifty Bank, Nifty IT, or other sectoral indices. By filtering stocks within these indices, users can identify potential trading opportunities tailored to specific sectors of interest.
+
+[!Range-Bound-Stocks-Opportunities-Tracker]()
+
+- **Nifty 500**: This feature enables users to analyze the performance of stocks listed in the Nifty 500 index, which comprises the top 500 companies in India based on free float market capitalization. By assessing these stocks, users can identify those that are exhibiting range-bound behavior, assisting in strategic investment decisions within a broad market context.
+
+- **All Companies Inside NSE**: Users can access and analyze all publicly listed companies on the National Stock Exchange (NSE). This comprehensive feature ensures that no potential opportunity is overlooked, allowing traders to find range-bound stocks across the entire NSE spectrum. Whether focusing on large-cap, mid-cap, or small-cap companies, this functionality provides a complete view of market dynamics.
+
+
+## Disclaimer
+**Use the Range Bound Stocks Finder at your own risk. The developers of this application bear no responsibility for any losses incurred as a result of using this tool. Trading in stocks involves risks, and it's essential to conduct your own research and consult with a financial advisor before making investment or trading decisions.**
+
    
 
 
